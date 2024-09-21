@@ -14,6 +14,7 @@ por el M.T.I Marco A. RamÍrez Hernández
 |3|Hola Mundo desde DART|10|Finalizada|
 |4|Tipos de Datos en DART|5|Finalizada|
 |5|Tipos de DATOS DINAMICOS en DART|5|Finalizada|
+|6|Mapas|6|Finalizada|
 
 
 
