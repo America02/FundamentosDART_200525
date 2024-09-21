@@ -12,7 +12,7 @@ por el M.T.I Marco A. RamÍrez Hernández
 |1|Metodología de Evaluación de la Asignatura|1|Finalizada|
 |2|Instalación y Configuración del Entorno de Desarrollo de Flutter/Dart|23|Finalizada|
 |3|Hola Mundo desde DART|10|Finalizada|
-
+|4|Tipos de Datos en DART|5|Finalizada|
 
 
 
