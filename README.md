@@ -15,6 +15,7 @@ por el M.T.I Marco A. RamÍrez Hernández
 |4|Tipos de Datos en DART|5|Finalizada|
 |5|Tipos de DATOS DINAMICOS en DART|5|Finalizada|
 |6|Mapas|6|Finalizada|
+|7|LISTAS, ITERABLES Y CONJUNTO DE DATOS|9|Finalizada
 
 
 
