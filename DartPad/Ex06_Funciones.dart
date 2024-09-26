@@ -97,13 +97,13 @@ String greetHourOfDay(String personName, int? hora)
   String saludo;
   
   if(hora>=6 && hora <12){
-    saludo= "Bueno dias";
+    saludo= "Bueno dias :D";
   }else if(hora>=12 && hora < 18)
   {
-    saludo="buenas tardes";
+    saludo="buenas tardes :D";
   }else
   {
-    saludo="Buenas noches";
+    saludo="Buenas noches :D";
   }
   return "${saludo}, ${personName}";
     
