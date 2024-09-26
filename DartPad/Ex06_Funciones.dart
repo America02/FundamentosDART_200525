@@ -38,7 +38,7 @@ print(greetSomeoneTyped(true));
   //4.1 ENCVIANDO AMBOS PARAMETROS
   print(greetHourOfDay("America",9));
   //4.2 SOLO ENVIADO EL OBLIGATORIO
-  print(greetHourOfDay("Julio", null));
+  print(greetHourOfDay("Yaely", null));
   print(greetHourOfDay("Sam"));
 
   //5. FUNCIONES LAMBA - LAS FUNCIONES LAMBA, MEJOR CONOCIDAS COMO FUNCIONES ANONIMAS O FUNCIONES SIMPLEFICADAS, SE EJECUTAN DE MANERA SIMPLE Y NO FRECUENTE EN LA EJECUCUION DE UN PROGRAMA O UN SISTEMA
