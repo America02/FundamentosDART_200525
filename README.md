@@ -9,14 +9,15 @@ por el M.T.I Marco A. RamÍrez Hernández
 ### HISTORIAL DE PRÁCTICAS:
 |No.|Nombre|Potenciador|Estatus
 |--|--|--|--|
-|1|Metodología de Evaluación de la Asignatura|1|Finalizada|
-|2|Instalación y Configuración del Entorno de Desarrollo de Flutter/Dart|23|Finalizada|
-|3|Hola Mundo desde DART|10|Finalizada|
-|4|Tipos de Datos en DART|5|Finalizada|
-|5|Tipos de DATOS DINAMICOS en DART|5|Finalizada|
-|6|Mapas|6|Finalizada|
-|7|Listas, Iterables y Conjunto de Datos|9|Finalizada|
-|8|Funciones|11|Activa 
+|1|Metodología de Evaluación de la Asignatura|1|✅Finalizada|
+|2|Instalación y Configuración del Entorno de Desarrollo de Flutter/Dart|23|✅Finalizada|
+|3|Hola Mundo desde DART|10|✅Finalizada|
+|4|Tipos de Datos en DART|5|✅Finalizada|
+|5|Tipos de DATOS DINAMICOS en DART|5|✅Finalizada|
+|6|Mapas|6|✅Finalizada|
+|7|Listas, Iterables y Conjunto de Datos|9|✅Finalizada|
+|8|Funciones|11|✅Finalizada|
+|9|Clases y Sobrescritura de Metodos Nativas|9|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
