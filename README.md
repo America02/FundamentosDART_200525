@@ -17,7 +17,8 @@ por el M.T.I Marco A. RamÍrez Hernández
 |6|Mapas|6|✅Finalizada|
 |7|Listas, Iterables y Conjunto de Datos|9|✅Finalizada|
 |8|Funciones|11|✅Finalizada|
-|9|Clases y Sobrescritura de Metodos Nativas|9|⭐Activa|
+|9|Clases y Sobrescritura de Metodos Nativas|9|✅Finalizada|
+|10|Constructores Nombrados|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
