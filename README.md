@@ -18,7 +18,8 @@ por el M.T.I Marco A. RamÍrez Hernández
 |7|Listas, Iterables y Conjunto de Datos|9|✅Finalizada|
 |8|Funciones|11|✅Finalizada|
 |9|Clases y Sobrescritura de Metodos Nativas|9|✅Finalizada|
-|10|Constructores Nombrados|⭐Activa|
+|10|Constructores Nombrados|8|⭐Activa|
+|11|Getters (Lectura Controlada) y Setters (Modificaciòn Controlada)|9|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
