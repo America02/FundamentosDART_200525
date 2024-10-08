@@ -23,6 +23,7 @@ por el M.T.I Marco A. RamÍrez Hernández
 |12|Clases abstractas|8|⭐Activa|
 |Tarea 04|Uso de las clases Abstractas en el caso de Estudio|10|⭐Activa|
 |13|Aserciones|3|⭐Activa|
+|14|Mixins|8|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
