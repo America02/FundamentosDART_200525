@@ -28,17 +28,17 @@ class PezVolador extends Pez with Nadador, Volador{}
 
 void main() {
   final flipper = Delfin();
-  print("Instanciando la clase de Delfín y accediendo a sus dunciones.");
+  print("Instanciando la clase de Delfín y Accediendo a sus Funciones.");
   flipper.nadar();
 
   print("----------------------------------------------");
-  print("Instanciando la clase de Chupacabras y accediendo a sus funciones.");
+  print("Instanciando la clase de Chupacabras y Accediendo a sus Funciones.");
   final chupacabras = Murcielago();
   chupacabras.caminar();
   chupacabras.volar();
 
 print("----------------------------------------------");
-  print("Instanciando la clase de Pato y accediendo a sus funciones.");
+  print("Instanciando la clase de Pato y Accediendo a sus Funciones.");
   final namor = Pato();
   namor.nadar();
   namor.caminar();
