@@ -21,6 +21,8 @@ por el M.T.I Marco A. RamÍrez Hernández
 |10|Constructores Nombrados|8|✅Finalizada|
 |11|Getters (Lectura Controlada) y Setters (Modificación Controlada)|9|✅Finalizada|
 |12|Clases abstractas|8|⭐Activa|
+|Tarea 04|Uso de las clases Abstractas en el caso de Estudio|10|⭐Activa|
+|13|Aserciones|3|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
