@@ -12,7 +12,7 @@ void main() {
   
   final mySquare2 = Square(side: 10); // Usamos 'side' en lugar de '_side'
   print("""
-  Lado del Cuadrado: ${mySquare2._side}
+  Lado del cuadrado: ${mySquare2._side}
   Área que ocupa: ${mySquare2.calculateArea()}""");
 
 }
