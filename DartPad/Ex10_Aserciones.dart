@@ -1,5 +1,5 @@
 void main() {
-  final mySquare = Square(side: 10); // Usamos 'side' en lugar de '_side'
+  final mySquare = Square(side: -10); // Usamos 'side' en lugar de '_side'
   print("""
   Lado del Cuadrado: ${mySquare._side}
   Área que ocupa: ${mySquare.calculateArea()}""");
@@ -10,7 +10,7 @@ void main() {
   Área que ocupa: ${mySquare.calculateArea()}""");
   
   
-  final mySquare2 = Square(side: 10); // Usamos 'side' en lugar de '_side'
+  final mySquare2 = Square(side: -7); // Usamos 'side' en lugar de '_side'
   print("""
   Lado del cuadrado: ${mySquare2._side}
   Área que ocupa: ${mySquare2.calculateArea()}""");
