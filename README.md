@@ -20,10 +20,10 @@ por el M.T.I Marco A. RamÍrez Hernández
 |9|Clases y Sobrescritura de Metodos Nativas|9|✅Finalizada|
 |10|Constructores Nombrados|8|✅Finalizada|
 |11|Getters (Lectura Controlada) y Setters (Modificación Controlada)|9|✅Finalizada|
-|12|Clases abstractas|11|⭐Activa|
-|Tarea 04|Uso de las clases Abstractas en el caso de Estudio|10|⭐Activa|
-|13|Aserciones|3|⭐Activa|
-|14|Mixins|9|⭐Activa|
+|12|Clases abstractas|11|✅Finalizada|
+|Tarea 04|Uso de las clases Abstractas en el caso de Estudio|10|✅Finalizada|
+|13|Aserciones|3|✅Finalizada|
+|14|Mixins|9|✅Finalizada|
 
 
 ### LISTA DE HERRAMIENTAS
